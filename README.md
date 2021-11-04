@@ -3,15 +3,13 @@
 
 ## Basic Website | About The Project
 
-![Website](images/https://gcdn.pbrd.co/images/JUhjgY0W53CH.png?o=1)
+This website was created as a part of my computer science module, where I studied the basics of HTML & CSS. The website is used to show my CV information which is used to showcase my modules and the programming languages I have used.
 
 
-This website was created as a part of my computer science module, where I studied the basics of HTML & CSS. I was able to add in information and other details to create a minimalist website. 
+## Website Screenshot
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+![Website](images/View.png)
+
 
 ### Built With
 
