@@ -3,7 +3,8 @@
 
 ## Basic Website | About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Website](images/https://gcdn.pbrd.co/images/JUhjgY0W53CH.png?o=1)
+
 
 This website was created as a part of my computer science module, where I studied the basics of HTML & CSS. I was able to add in information and other details to create a minimalist website. 
 
@@ -19,18 +20,13 @@ This section should list any major frameworks/libraries used:
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 
+### Running Webiste
 
-## Getting Started
+As the website is stored locally any user who wishes to view the webpages you have to open the index file.
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+* open the html file
   ```sh
-  npm install npm@latest -g
+  index.html
   ```
 
 
